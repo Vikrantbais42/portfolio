@@ -2,7 +2,7 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor Degree - 79.45%",
-    duration: "2016 - Present",
+    duration: "2016 - 2020",
     institution: "I.T.S Engineering College, Gr. Noida",
   },
   {
