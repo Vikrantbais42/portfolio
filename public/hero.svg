@@ -9,7 +9,7 @@
 <ellipse cx="1097.67" cy="90.2204" rx="278.006" ry="262.262" transform="rotate(-157.304 1097.67 90.2204)" fill="url(#paint2_linear_340_660)" fill-opacity="0.23"/>
 </g>
 <g opacity="0.4" filter="url(#filter1_f_340_660)">
-<ellipse cx="645.778" cy="-170.165" rx="362.917" ry="211.851" transform="rotate(46.3553 645.778 -170.165)" fill="#8244FF"/>
+<ellipse cx="645.778" cy="-170.165" rx="362.917" ry="211.851" transform="rotate(46.3553 645.778 -170.165)" fill="#22c55e"/>
 </g>
 </g>
 <defs>
@@ -24,17 +24,17 @@
 <feGaussianBlur stdDeviation="152" result="effect1_foregroundBlur_340_660"/>
 </filter>
 <radialGradient id="paint0_radial_340_660" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1123.11 259.246) rotate(90) scale(238.243)">
-<stop stop-color="#8244FF" stop-opacity="0.29"/>
-<stop offset="1" stop-color="#8244FF" stop-opacity="0"/>
+<stop stop-color="#22c55e" stop-opacity="0.29"/>
+<stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
 </radialGradient>
 <radialGradient id="paint1_radial_340_660" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(753.111 565.246) rotate(90) scale(238.243)">
-<stop stop-color="#8244FF" stop-opacity="0.29"/>
-<stop offset="1" stop-color="#8244FF" stop-opacity="0"/>
+<stop stop-color="#22c55e" stop-opacity="0.29"/>
+<stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
 </radialGradient>
 <linearGradient id="paint2_linear_340_660" x1="1356.37" y1="-139.487" x2="1240.56" y2="384.088" gradientUnits="userSpaceOnUse">
-<stop stop-color="#F926AE"/>
-<stop offset="0.21875" stop-color="#F926AE"/>
-<stop offset="1" stop-color="#F926AE" stop-opacity="0"/>
+<stop stop-color="#22c55e"/>
+<stop offset="0.21875" stop-color="#22c55e"/>
+<stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
 </linearGradient>
 </defs>
 </svg>

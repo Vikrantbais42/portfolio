@@ -1,20 +1,20 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Software Engineer I',
-    company: "Teton Private Ltd.",
+    title: 'Full Stack Developer',
+    company: "SubhamangalVivha Saatvachan Pvt. Ltd. - Remote",
     duration: "(Jan 2022 - Present)"
   },
   {
     id: 2,
-    title: "FullStack Developer",
-    company: "Fiverr (freelance)",
-    duration: "(Jun 2021 - Jan 2022)"
+    title: "Software Engineer",
+    company: "HCL Tech",
+    duration: "(Jan 2022 - May 2022)"
   },
   {
     id: 3,
-    title: "Self Employed",
-    company: "Code and build something in everyday.",
-    duration: "(Jan 2018 - Present)"
+    title: "Full Stack Developer",
+    company: "QSS Technosoft Private Ltd. - Noida.",
+    duration: "(March 2020 - Sep 2020)"
   }
 ]
