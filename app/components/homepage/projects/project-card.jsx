@@ -68,7 +68,7 @@ function ProjectCard({ project }) {
             <span className="text-white">Demo:</span>
             <span className="text-red-500"><a target='_blank' href={link}>{' ' + project.demo}</a></span>
             <span className="text-gray-400">,</span>
-            <span className='text-green-500'>    //Click to view demo</span>
+            <span className='text-green-500'>    {'//Click to view demo'}</span>
           </div>
 
           <div><span className="text-gray-400">{`};`}</span></div>

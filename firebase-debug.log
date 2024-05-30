@@ -1,0 +1,38 @@
+[debug] [2024-05-30T18:49:34.501Z] ----------------------------------------------------------------------
+[debug] [2024-05-30T18:49:34.503Z] Command:       /usr/local/bin/firebase /Users/saatphere/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase deploy
+[debug] [2024-05-30T18:49:34.504Z] CLI Version:   13.10.2
+[debug] [2024-05-30T18:49:34.504Z] Platform:      darwin
+[debug] [2024-05-30T18:49:34.505Z] Node Version:  v18.5.0
+[debug] [2024-05-30T18:49:34.507Z] Time:          Fri May 31 2024 00:19:34 GMT+0530 (India Standard Time)
+[debug] [2024-05-30T18:49:34.507Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-05-30T18:49:34.689Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-05-30T18:49:34.690Z] > authorizing via signed-in user (vikrants805@gmail.com)
+[debug] [2024-05-30T18:49:34.692Z] [iam] checking project tic-tac-toe-9c489 for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2024-05-30T18:49:34.695Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/tic-tac-toe-9c489:testIamPermissions [none]
+[debug] [2024-05-30T18:49:34.696Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/tic-tac-toe-9c489:testIamPermissions x-goog-quota-user=projects/tic-tac-toe-9c489
+[debug] [2024-05-30T18:49:34.697Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/tic-tac-toe-9c489:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2024-05-30T18:49:36.385Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/tic-tac-toe-9c489:testIamPermissions 200
+[debug] [2024-05-30T18:49:36.386Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/tic-tac-toe-9c489:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2024-05-30T18:49:36.388Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/tic-tac-toe-9c489 [none]
+[debug] [2024-05-30T18:49:36.915Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/tic-tac-toe-9c489 200
+[debug] [2024-05-30T18:49:36.916Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/tic-tac-toe-9c489 {"projectId":"tic-tac-toe-9c489","projectNumber":"526617697170","displayName":"MyPortfolio","name":"projects/tic-tac-toe-9c489","resources":{"hostingSite":"tic-tac-toe-9c489","realtimeDatabaseInstance":"tic-tac-toe-9c489"},"state":"ACTIVE","etag":"1_8ef619b5-d8d9-4b70-8967-bd699e321378"}
+[info] 
+   Thank you for trying our early preview of Next.js support on Firebase Hosting.
+   During the preview, support is best-effort and breaking changes can be expected. Proceed with caution.
+   The integration is known to work with Next.js version 12 - 14.0. You may encounter errors.
+
+   Documentation: https://firebase.google.com/docs/hosting/frameworks/nextjs
+   File a bug: https://github.com/firebase/firebase-tools/issues/new?template=bug_report.md
+   Submit a feature request: https://github.com/firebase/firebase-tools/issues/new?template=feature_request.md
+
+   We'd love to learn from you. Express your interest in helping us shape the future of Firebase Hosting: https://goo.gle/41enW5X
+
+[debug] [2024-05-30T18:49:47.817Z] >>> [apiv2][query] GET https://firebasehosting.googleapis.com/v1beta1/projects/tic-tac-toe-9c489/sites/tic-tac-toe-9c489 [none]
+[debug] [2024-05-30T18:49:49.526Z] <<< [apiv2][status] GET https://firebasehosting.googleapis.com/v1beta1/projects/tic-tac-toe-9c489/sites/tic-tac-toe-9c489 200
+[debug] [2024-05-30T18:49:49.529Z] <<< [apiv2][body] GET https://firebasehosting.googleapis.com/v1beta1/projects/tic-tac-toe-9c489/sites/tic-tac-toe-9c489 {"name":"projects/tic-tac-toe-9c489/sites/tic-tac-toe-9c489","defaultUrl":"https://tic-tac-toe-9c489.web.app","type":"DEFAULT_SITE"}
+[info] You are using Node.js 18.5.0. For Next.js, Node.js version >= v18.17.0 is required.
+
+[debug] [2024-05-30T18:49:51.850Z] Error: ENOENT: no such file or directory, open '/Users/saatphere/Documents/New Portfolio/my_portfolio/.next/export-marker.json'
+[error] 
+[error] Error: An unexpected error has occurred.
