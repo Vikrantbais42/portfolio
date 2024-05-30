@@ -3,13 +3,13 @@ export const experiences = [
     id: 1,
     title: 'Full Stack Developer',
     company: "SubhamangalVivha Saatvachan Pvt. Ltd. - Remote",
-    duration: "(Jan 2022 - Present)"
+    duration: "(May 2024 - Present)"
   },
   {
     id: 2,
     title: "Software Engineer",
     company: "HCL Tech",
-    duration: "(Jan 2022 - May 2022)"
+    duration: "(Jan 2022 - May 2024)"
   },
   {
     id: 3,
