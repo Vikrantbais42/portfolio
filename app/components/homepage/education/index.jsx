@@ -49,7 +49,7 @@ function Education() {
                     <div className="p-3 relative text-white">
                 
                       <div className="flex justify-center">
-                        <p className="text-xs sm:text-sm text-black">
+                        <p className="text-xs sm:text-sm font-bold text-black">
                           {education.duration}
                         </p>
                       </div>

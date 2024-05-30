@@ -44,7 +44,7 @@ function Experience() {
                     <div className="p-3 relative">
                       
                       <div className="flex justify-center">
-                        <p className="text-xs sm:text-sm text-black">
+                        <p className="text-xs sm:text-sm font-bold text-black">
                           {experience.duration}
                         </p>
                       </div>
