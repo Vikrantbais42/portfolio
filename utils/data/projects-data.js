@@ -26,7 +26,7 @@ export const projectsData = [
     },
     {
         id: 2,
-        name: 'Mitel: Business Communication - HCL Tech',
+        name: 'Mitel - HCL Tech',
         description: '',
         tools: ['HTML & CSS', 'Tailwind CSS', "Javascript", "ReactJS","Express", "MySQL", "Visual Studio", "Bootstrap", "MongoDB"],
         role: 'Full Stack Developer',
