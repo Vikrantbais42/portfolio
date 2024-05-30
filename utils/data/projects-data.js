@@ -11,7 +11,7 @@ export const projectsData = [
         tools: ['HTML & CSS', 'Tailwind CSS ', 'Javascript', 'ReactJS', 'NextJS', 'EmailJS','Firebase', 'Git'],
         code: '',
         role: 'Full Stack Developer',
-        demo: '#',
+        demo: 'https://vikrant-portfolio.vercel.app/',
         image: realEstate,
     },
     {
