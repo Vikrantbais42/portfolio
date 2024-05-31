@@ -8,7 +8,7 @@ export const experiences = [
   {
     id: 2,
     title: "Software Engineer",
-    company: "HCL Tech",
+    company: "HCL Tech - Sector-126, Noida",
     duration: "(Jan 2022 - May 2024)"
   },
   {
