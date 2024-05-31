@@ -10,9 +10,19 @@ import { MdDownload } from "react-icons/md";
 import { RiContactsFill } from "react-icons/ri";
 import { SiLeetcode } from "react-icons/si";
 import { useState, useEffect } from 'react';
+import React from "react";
+import 'aos/dist/aos.css';
+import AOS from 'aos';
 import useTypewriter from "../../helper/typeWriter"; // Import the custom hook
 
 function HeroSection() {
+
+  useEffect(() => {
+    AOS.init({
+      duration:600,
+      // Global settings here (see: https://github.com/michalsnik/aos#javascript-options)
+    });
+  }, []);
 
 
 
@@ -42,7 +52,7 @@ function HeroSection() {
   const typedCode = useTypewriter(codeLines, 1);
 
   return (
-    <section className="relative flex flex-col items-center justify-between py-4 lg:py-12">
+    <section data-aos="zoom-in-up" className="relative flex flex-col items-center justify-between py-4 lg:py-12">
       <Image
         src="/hero.svg"
         alt="Hero"

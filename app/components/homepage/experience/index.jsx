@@ -1,4 +1,5 @@
 // @flow strict
+'use client'
 
 import { experiences } from "@/utils/data/experience";
 import Image from "next/image";
@@ -6,10 +7,20 @@ import { BsPersonWorkspace } from "react-icons/bs";
 import AnimationLottie from "../../helper/animation-lottie";
 import GlowCard from "../../helper/glow-card";
 import experience from '/public/lottie/code1.json';
+import React from "react";
+import 'aos/dist/aos.css';
+import AOS from 'aos';
+import { useEffect ,useState } from "react";
 
 function Experience() {
+  useEffect(() => {
+    AOS.init({
+      duration:600,
+      // Global settings here (see: https://github.com/michalsnik/aos#javascript-options)
+    });
+  }, []);
   return (
-    <div id="experience" className="relative z-50 border-t my-12 lg:my-24 border-[#25213b]">
+    <div data-aos="zoom-in-up" id="experience" className="relative z-50 border-t my-12 lg:my-24 border-[#25213b]">
       <Image
         src="/section.svg"
         alt="Hero"
