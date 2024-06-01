@@ -68,7 +68,13 @@ function Education() {
                       </div>
                       <div className="flex items-center gap-x-8 px-3 py-5">
                         <div className="text-white  transition-all duration-300 hover:scale-125">
-                          <BsPersonWorkspace size={36} />
+                        <Image
+                            src={education.image}
+                            alt="Hero"
+                            width={50}
+                            height={50}
+                  
+                          />
                         </div>
                         <div>
                           <p className="text-base sm:text-xl mb-2 font-medium uppercase">
