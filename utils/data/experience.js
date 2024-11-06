@@ -14,6 +14,13 @@ export const experiences = [
     image:"/hcl.png"
   },
   {
+    id: 4,
+    title: "Full Stack Developer",
+    company: "Headquad Technologies - Noida.",
+    duration: "(Oct 2020 - Dec 2021)",
+    image:"/qsc.png"
+  },
+  {
     id: 3,
     title: "Full Stack Developer",
     company: "QSS Technosoft Private Ltd. - Noida.",
