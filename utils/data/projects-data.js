@@ -48,12 +48,12 @@ export const projectsData = [
     {
         id: 4,
         name: 'Fundraise-A-Thon',
-        description: 'Fundraise-a-thon is a type of fundraiser event often organized by schools, non-profits, or community organizations to raise money by encouraging participants to seek sponsorships or donations for a specific goal or challenge.',
-        tools: ['Laravel', 'php', 'Javascript', 'jQuery', 'HTML & CSS', 'VS Code', 'MySql', 'API Integration', 'API Development'],
+        description: 'Fundraise-a-thon is a type of fundraiser event often organized by schools.',
+        tools: ['Laravel', 'php', 'Javascript', 'jQuery', 'HTML & CSS', 'VS Code', 'MySql', 'API Development & Integration', 'Payment Gateway Integration'],
         code: '',
         role: 'Full Stack Developer',
-        demo: 'https://saat-phere.in',
-        image: realEstate,
+        demo: 'https://fundraise-a-thon.com/',
+        image: crefin,
     },
 
     
