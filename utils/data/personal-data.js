@@ -1,7 +1,7 @@
 export const personalData = {
   name: "Vikrant Bais",
   profile: '/dp.png',
-  designation: "Full Stack Developer",
+  designation: "Software Developer",
   description: "With over 4.5+ years of experience, I'm a skilled software engineer adept at designing and developing robust, scalable, and high-performance software solutions. My expertise spans various programming languages, software development methodologies, and tools, enabling me to tackle diverse challenges effectively. I am deeply passionate about innovation, problem-solving, and delivering exceptional user experiences. Furthermore, I possess strong communication and collaboration skills, with a proven ability to thrive in team environments.",
   email: 'vikrantbais70@gmail.com',
   phone: '+917011615678',
