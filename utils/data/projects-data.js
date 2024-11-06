@@ -36,7 +36,7 @@ export const projectsData = [
     },
     {
         id: 3,
-        name: 'Saat Phere',
+        name: 'Saat Phereee',
         description: 'One App for all the wedding-related services bookings like Catering, Venue, Sound & DJ, and many more',
         tools: ['HTML & CSS', 'Tailwind CSS ', 'Javascript', 'ReactJS', 'VueJS', 'Flutter', 'MySQL', 'Google Cloud Console', 'API Integration', 'Chat GPT', 'Google Firebase'],
         code: '',
