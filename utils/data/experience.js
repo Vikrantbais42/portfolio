@@ -7,6 +7,13 @@ export const experiences = [
     image: "/saatc.png"
   },
   {
+    id: 5,
+    title: "Full Stack Developer",
+    company: "Resourcifi - Remote.",
+    duration: "(May 2024 - Present)",
+    image:"/resourcifi.png"
+  },
+  {
     id: 2,
     title: "Software Engineer",
     company: "HCL Tech - Sector-126, Noida",
