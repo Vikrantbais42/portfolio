@@ -35,7 +35,7 @@ export const projectsData = [
         image: travel,
     },
     {
-        id: 3,
+        id: 5,
         name: 'Saat Phere',
         description: 'One App for all the wedding-related services bookings like Catering, Venue, Sound & DJ, and many more',
         tools: ['HTML & CSS', 'Tailwind CSS ', 'Javascript', 'ReactJS', 'VueJS', 'Flutter', 'MySQL', 'Google Cloud Console', 'API Integration', 'Chat GPT', 'Google Firebase'],
@@ -46,7 +46,7 @@ export const projectsData = [
     },
 
     {
-        id: 5,
+        id: 4,
         name: 'Fundraise-A-Thon',
         description: 'Fundraise-a-thon is a type of fundraiser event often organized by schools, non-profits, or community organizations to raise money by encouraging participants to seek sponsorships or donations for a specific goal or challenge.',
         tools: ['Laravel', 'php', 'Javascript', 'jQuery', 'HTML & CSS', 'VS Code', 'MySql', 'API Integration', 'API Development'],
