@@ -11,7 +11,7 @@ export const experiences = [
     title: "Full Stack Developer",
     company: "Resourcifi - Remote.",
     duration: "(May 2024 - Present)",
-    image:"/resourcifi.png"
+    image:"/resourcifi.gif"
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ export const experiences = [
     title: "Full Stack Developer",
     company: "Headquad Technologies - Noida.",
     duration: "(Oct 2020 - Dec 2021)",
-    image:"/headquad.png"
+    image:"/headquad.jpeg"
   },
   {
     id: 3,
