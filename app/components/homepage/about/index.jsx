@@ -30,7 +30,7 @@ function AboutSection() {
           <p className="font-bold mb-5 text-green-500 text-xl ">
            -- Profile Summary --
           </p>
-          <p className="text-gray-600 text-sm lg:text-lg">
+          <p className="text-gray-600 text-sm ">
             {personalData.description}
           </p>
         </div>
