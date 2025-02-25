@@ -2,7 +2,7 @@ export const personalData = {
   name: "Vikrant Bais",
   profile: '/dp.png',
   designation: "Software Developer",
-  description: "With over 5+ years of experience, I'm a skilled software engineer adept at designing and developing robust, scalable, and high-performance software solutions. My expertise spans various programming languages, software development methodologies, and tools, enabling me to tackle diverse challenges effectively. I am deeply passionate about innovation, problem-solving, and delivering exceptional user experiences. Furthermore, I possess strong communication and collaboration skills, with a proven ability to thrive in team environments.",
+  description: "I am a Full Stack Developer with 5+ years of experience crafting high-performance web and mobile applications. With expertise in React.js, Redux, Flutter, Laravel, and Node.js, I build intuitive UIs and scalable backends. I specialize in API development, Payment gateway integration, and JWT authentication, ensuring secure and seamless user experiences. Beyond development, I have strong DevOps skills, working with Docker, Kubernetes, Terraform, and CI/CD pipelines to optimize deployment workflows. Passionate about innovation, I leverage AI tools like ChatGPT, LangChain, and Copilot to streamline development and enhance productivity. Always eager to solve complex challenges, I thrive on building cutting-edge solutions that drive impact.",
   email: 'vikrantbais70@gmail.com',
   phone: '+917011615678',
   address: 'Golden Nest Society, B-Block, Sector-62, Noida',
